@@ -147,7 +147,7 @@ Additional processing steps:
  ### 📊Dashboard Preview
 
 
-![Vendor Performance Dashboard](images/vendor_performance_dashboard.png.png)
+![Vendor Performance Dashboard]<img width="1367" height="758" alt="vendor_performance_dashboard png" src="https://github.com/user-attachments/assets/b2ad5a63-87c6-46f9-80fd-0f0e674a5c33" />
 
 ---
 
