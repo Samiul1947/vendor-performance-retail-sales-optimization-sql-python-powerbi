@@ -147,7 +147,7 @@ Additional processing steps:
  ### 📊Dashboard Preview
 
 
-![Vendor Performance Dashboard](images/![vendor_performance_dashboard.png.png])
+![Vendor Performance Dashboard](images/vendor_performance_dashboard.png.png)
 
 ---
 
