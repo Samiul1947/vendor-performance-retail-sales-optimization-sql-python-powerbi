@@ -1,10 +1,6 @@
-.vscode
-*.pbix
-*.xlsx
-*.xlsm
-*.env
+n.env
 node_modules
 __pycache__
-*.pyc
+.pyc
 .DS_Store
 Thumbs.db
