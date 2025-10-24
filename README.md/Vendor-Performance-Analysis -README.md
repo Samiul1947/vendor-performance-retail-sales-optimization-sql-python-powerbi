@@ -201,7 +201,7 @@ Additional processing steps:
 
 **Samiul Gazi**
 
-  🎓 MSc in Economics, University of Calcutta  
+  🎓 M.Sc in Economics, University of Calcutta  
   📍Kolkata, West Bengal 
 
 📧 Email: sgaziamumh@gmail.com
